@@ -1,0 +1,5 @@
+M:\Git\sandbox\sandbox\bin\Debug\sandbox.exe.config
+M:\Git\sandbox\sandbox\bin\Debug\sandbox.exe
+M:\Git\sandbox\sandbox\bin\Debug\sandbox.pdb
+M:\Git\sandbox\sandbox\obj\Debug\sandbox.exe
+M:\Git\sandbox\sandbox\obj\Debug\sandbox.pdb
